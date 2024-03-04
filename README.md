@@ -2,3 +2,5 @@
 University of Wollongong - Chinese Students Scholars Association
 
 欢迎大家加入UOW中国学联！
+
+![asd](/1.jpg)
